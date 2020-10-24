@@ -1,4 +1,6 @@
 # PowerShell Telegram Bot
+### Author 
+GitHub: [AndrewKing](https://github.com/andrew000)
 
 ### Dependencies
 - Windows 7, 8, 8.1, 10

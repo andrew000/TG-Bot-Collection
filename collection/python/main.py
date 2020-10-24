@@ -2,6 +2,9 @@ import json
 
 import requests
 
+__author__ = "https://github.com/andrew000"
+
+
 TOKEN = ""  # Enter token from https://t.me/BotFather
 URL = f"https://api.telegram.org/bot{TOKEN}"
 OFFSET = 0

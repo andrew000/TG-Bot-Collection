@@ -1,3 +1,4 @@
+# Author: https://github.com/andrew000
 chcp 65001
 
 $TOKEN = ""  # Enter token from https://t.me/BotFather
