@@ -1,8 +1,8 @@
-#Python Telegram Bot
+# Python Telegram Bot
 
-###Dependencies
+### Dependencies
 `pip install -U -r requirements.txt`
 ___
 
-###Deploy
+### Deploy
 `python3 main.py`

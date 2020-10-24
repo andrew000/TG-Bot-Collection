@@ -1,19 +1,19 @@
-#PowerShell Telegram Bot
+# PowerShell Telegram Bot
 
-###Dependencies
+### Dependencies
 - Windows 7, 8, 8.1, 10
 - PowerShell
 ___
 
-###Deploy
+### Deploy
 _open PowerShell and type:_
 
 `./bot.ps1`
 ___
 
-###Errors
+### Errors
 
-#####[UnauthorizedAccess] Error:
+#### [UnauthorizedAccess] Error:
 ```
 + ./bot.ps1
 + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -21,7 +21,7 @@ ___
     + FullyQualifiedErrorId : UnauthorizedAccess
 ```
 
-#####[UnauthorizedAccess] Solution:
+#### [UnauthorizedAccess] Solution:
 
 _Execute in Powershell:_
 
