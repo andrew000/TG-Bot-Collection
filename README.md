@@ -27,7 +27,7 @@ ___
 - [ ] Fortran
 - [ ] Golang
 - [ ] Haskel
-- [ ] Java
+- [x] Java
 - [x] JavaScript
 - [ ] Julia
 - [ ] Kotlin
