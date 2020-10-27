@@ -13,7 +13,7 @@ ___
 
 ### List of planned languages
 
-- [ ] Bash
+- [x] Bash
 - [ ] BASIC
 - [ ] Batch
 - [ ] C
