@@ -13,22 +13,24 @@ ___
 
 ### List of planned languages
 
-- [x] Bash
+#### Progress: [7 / 32]
+
+- [x] [Bash](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/bash)
 - [ ] BASIC
 - [ ] Batch
 - [ ] C
 - [ ] C++
 - [ ] C#
 - [ ] COBOL
-- [x] Crystal
+- [x] [Crystal](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/crystal)
 - [ ] Dart
 - [ ] Elixir
 - [ ] Erlang
 - [ ] Fortran
 - [ ] Golang
 - [ ] Haskel
-- [x] Java
-- [x] JavaScript
+- [x] [Java](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/java)
+- [x] [JavaScript](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/javascript)
 - [ ] Julia
 - [ ] Kotlin
 - [ ] Lisp
@@ -36,9 +38,9 @@ ___
 - [ ] Nim
 - [ ] Objective-C
 - [ ] Pascal
-- [x] PHP
-- [x] PowerShell 
-- [x] Python
+- [x] [PHP](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/php)
+- [x] [PowerShell](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/powershell) 
+- [x] [Python](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/python)
 - [ ] Ruby
 - [ ] Rust
 - [ ] Scala
