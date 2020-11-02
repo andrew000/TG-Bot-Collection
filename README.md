@@ -20,7 +20,7 @@ ___
 - [ ] C++
 - [ ] C#
 - [ ] COBOL
-- [ ] Crystal
+- [x] Crystal
 - [ ] Dart
 - [ ] Elixir
 - [ ] Erlang
