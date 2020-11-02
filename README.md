@@ -36,7 +36,7 @@ ___
 - [ ] Nim
 - [ ] Objective-C
 - [ ] Pascal
-- [ ] PHP
+- [x] PHP
 - [x] PowerShell 
 - [x] Python
 - [ ] Ruby
