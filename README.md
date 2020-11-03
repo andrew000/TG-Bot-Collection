@@ -13,7 +13,7 @@ ___
 
 ### List of planned languages
 
-#### Progress: [7 / 32]
+#### Progress: [8 / 32]
 
 - [x] [Bash](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/bash)
 - [ ] BASIC
@@ -31,7 +31,7 @@ ___
 - [ ] Haskel
 - [x] [Java](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/java)
 - [x] [JavaScript](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/javascript)
-- [ ] Julia
+- [x] [Julia](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/julia)
 - [ ] Kotlin
 - [ ] Lisp
 - [ ] Lua
