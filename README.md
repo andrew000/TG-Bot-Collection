@@ -13,14 +13,14 @@ ___
 
 ### List of planned languages
 
-#### Progress: [8 / 32]
+#### Progress: [9 / 32]
 
 - [x] [Bash](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/bash)
 - [ ] BASIC
 - [ ] Batch
 - [ ] C
 - [ ] C++
-- [ ] C#
+- [x] [C#](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/C%23)
 - [ ] COBOL
 - [x] [Crystal](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/crystal)
 - [ ] Dart
