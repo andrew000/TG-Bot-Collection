@@ -13,7 +13,7 @@ ___
 
 ### List of planned languages
 
-#### Progress: [9 / 32]
+#### Progress: [10 / 32]
 
 - [x] [Bash](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/bash)
 - [ ] BASIC
@@ -27,7 +27,7 @@ ___
 - [ ] Elixir
 - [ ] Erlang
 - [ ] Fortran
-- [ ] Golang
+- [x] [Golang](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/golang)
 - [ ] Haskel
 - [x] [Java](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/java)
 - [x] [JavaScript](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/javascript)
