@@ -13,7 +13,7 @@ ___
 
 ### List of planned languages
 
-#### Progress: [10 / 32]
+#### Progress: [11 / 32]
 
 - [x] [Bash](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/bash)
 - [ ] BASIC
@@ -46,4 +46,4 @@ ___
 - [ ] Scala
 - [ ] SQL (Is it real?)
 - [ ] Swift
-- [ ] TypeScript
+- [x] [TypeScript](https://github.com/andrew000/TG-Bot-Collection/tree/master/collection/typescript)
